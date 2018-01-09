@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<!--this is the title of my project and it does not show on screen -->
+<head>
+     <meta name="description" content="All About Megan Miller">
+ <meta name="viewport" content=width=device-width">
+ <!-- meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata. the metadata can be used by browsers (how to display content or reload page), search engines (keywords), or other web services.-->
+<style>
+
+h1 {
+   color: pink;
+   border: double 6px hotpink;
+ }
+ body {
+  font: small-caps normal 16px helvetica sans-serif;
+}
+
+html {
+    background: url("http://longwallpapers.com/Desktop-Wallpaper/pretty-wallpaper-For-Desktop-Wallpaper.jpg");
+    margin: 10px 10px 10px 20px;
+    text-align: center;
+}
+u {
+    color: lightpink;
+}
+ul {
+    text-align: left;
+    /*makes my list to the left*/
+}
+
+h2 {
+    color: pink ;
+    /*makes my text pink*/
+}
+
+body {
+    color: white;
+    /*makes my text white*/
+}
+
+</style>
+    <marquee><u><h1>Megan Miller, All About ME!</h1></u></marquee>
+
+    <!-- u means underline and this h1 is the biggest header for my title-->
+        <hr>
+        <title> hey this is my final project </title>
+</head>
+<!-- this is the top section of my page-->
+<body>
+    <h2>Intro:</h2>
+    <!-- second biggest header-->
+<br>
+<!-- line break-->
+    <ul>
+        <li>Birthday: Jan 12, 2003
+        <li>Family: Brother(Dylan) Mom, Dad, Cat(Dasher), Dog(Moose)
+    </ul>
+    <!-- unordered list and li is each list item-->
+<br>
+    <h2>Elementary School: Annie Keller RGC</h2>
+<p>
+    <!-- this is a bigger break than br-->
+I grew up on the Far Southside of Chicago in a small neighbprhood called <a href="https://en.wikipedia.org/wiki/Mount_Greenwood,_Chicago" target="blank" title="all about mtg"> Mount Greenwood, or MTG</a>
+<!-- adds a link to the words mount greenwood and explains the town-->
+<br>
+<br>
+At Keller, which was a selective enrollment type Magnet school like WY, we had  a sort of first grade orientation for a week in the summer where we saw what school/class was going to be like and we were able to make new frineds this way. 
+<br>
+<br>
+        <h2>In Elementary school I was involved in Soccer, Basketball, Softball, and Volleyball. </h2>
+<br>
+<br>
+At Keller I was in a afterschool club for Math and English in fourth grade. One day we got to go outside and play on the playground and I was trying to climb the monkey bars, skipping a bar each time, and I fell off and broke my arm. I also broke my nose while playing softball for the Merrionette Park Georgia Bulldogs. 
+<p>
+<p>
+    <h2>Middle School: Still Annie Keller RGC(from grade 1 -> 8)</h2>
+<p>
+I got a phone in 6th grade, an iPhone 5s for Christmas. my brother got aphone also in 6th grade but instead of getting a worse phone than me, we both got iPhone 7's in November as an early Christmas gift. Most of my friends went to catholic school in Oak Lawn, IL called St. Linus, like my best friend Kailyn Loch. My best friend Brigid went to keller with me and she now goes to SICP(Ignatius)
+<br>
+    <img src="https://mail.google.com/mail/u/0/?ui=2&ik=25bf3c4748&view=fimg&th=1607a64362ccbcfe&attid=0.1&disp=emb&attbid=ANGjdJ_ZXoiJJzR0V4PwuMabA4Ma0142f1W0ry88L5LFvaoUh5SRQjFruJBXDrKWeWShYmZF7pZf9ZWRQ9uebgix86xHg_lDB9XJ2y7vQmYkTtKg8Vju6A5WJDken3I&sz=s0-l75-ft&ats=1513881883579&rm=1607a64362ccbcfe&zw&atsh=1" alt="my bff and I" title="Kailyn and Megan at Mahalo in Wicker Park" width="250">
+    <!-- this adds an image with the alternate text, my bff and I, title, kailyn and megan at mahalo in wicker park, width, 250, and the src, which is the image address-->
+<br>
+<br>
+    <h2>High School: Whitney Young</h2>
+<p>
+Now I go to Whitney Young and I enjoy it. 
+<p>
+    <img src="https://mail.google.com/mail/u/0/?ui=2&ik=25bf3c4748&view=fimg&th=1607a691c812d5d7&attid=0.1&disp=emb&attbid=ANGjdJ-F_2Bmjxc55uoj9uCcnxp4gw5-m5FaM_uRn32O7JX_0-A2K3C-OVulC2r_spwjq2XFK2TjP9lu-ZXdtl5bxg6L0N7iuJCCH5fuX8qa0JhfNigaUqto_1pOn4g&sz=s0-l75-ft&ats=1513882199732&rm=1607a691c812d5d7&zw&atsh=1" alt="joeys bday party" width="300" title="wy takes on spin chicago">
+<p>
+<p>
+    <h2>Future Plans: </h2>
+<p>
+I would like to attend a College/University for nursing or doctoring and recieve proper schooling to be a nurse. 
+<br> I want to have a big family and at least three kids. I want to be a PICU nurse,and travel out of the country as much as possible to explore.
+    <p>
+    <p>
+        <h2>Extra Questions!</h2>
+<ol>
+    <!-- the ordered list basically the same as the other list except it is numbered -->
+  <li><strong>What 3 adjectives would you use to describe yourself? Why?</strong> I would use hardworking, good humored, and adventurous.
+  <li><strong>What is/are your favorite subject(s) in school? Why?</strong> My favorite subject is wiriting because I enjoy wrtiting.
+  <li><strong>What activities/hobbies do you participate in outside of school?</strong> I play basketball, I am going to play lax, I was a swimmer, I am involved in clubs, and I hang out with friends often. 
+  <br>
+  <br>
+  <strong><em>(Questions about goals)</em></strong>
+  <!-- this text is in both bold and italics -->
+  <br>
+  <br>
+  <li><strong>What is a physical goal you have for yourself this year? How will you attempt to achieve these goals? </strong> I want to recieve straight A's and do good in basketball.
+  <li><strong>What is an emotional goal you have for yourself this year? How will you attempt to achieve these goals? </strong> I hope to be less irritable and easily annoyed.
+  <li><strong>What is a social goal you have for yourself this year? How will you attempt to achieve these goals? </strong> I want to make as many new friends as possible!
+
+</ol>
+
+</body>
+<!-- the main portion of my page ends here-->
+    
+<footer>
+        Hey, thanks for viewing my website that is all about me. This is a Final Project I hope I get a good grade! YAY!
+        <br>
+        <br>
+        Copyright 2017
+        <br>
+        <br>
+        Website by Megan Miller
+</footer>
+<!-- this is the copyright and extra imformation about this website-->
+</html>
+<!-- -->
